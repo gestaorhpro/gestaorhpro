@@ -1,0 +1,6 @@
+{
+  "name": "GestãoRH Pro",
+  "description": "A comprehensive HR management dashboard featuring employee management, PPE control, payroll, digital documents, and analytics, styled with Tailwind CSS in a responsive layout.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
